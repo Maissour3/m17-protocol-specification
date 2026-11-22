@@ -1,0 +1,10 @@
+site_name: "M17 Open Digital Radio Protocol Specification"
+site_description: "Formal open protocol specification for the M17 digital radio voice and packet telemetry standard, 4FSK physical modulation, and Codec2 voice encoding."
+site_url: https://m17-protocol-specification.readthedocs.io/
+theme:
+  name: readthedocs
+
+nav:
+  - "Protocol Overview & Physical Layer": index.md
+  - "Stream Framing & Packet Architecture": framing.md
+  - "Amateur Radio Telemetry & Public Disclosures": telemetry-and-wire-protocols.md
